@@ -1,0 +1,31 @@
+case "civ_VeNDeTTa":
+        {
+                switch(true) do
+                {
+                        case (playerSide != civilian): {"You are not a civ!"};
+                        case (!license_civ_VeNDeTTa): {"You are not a member of the VeNDeTTa!"};
+                        default
+                        {
+                                ["VeNDeTTa Weapons",
+                                        [
+                                                ["a3l_cz550",nil,15000],
+                                                ["a3l_cz550scope",nil,15000],
+                                                ["A3L_CZ550Mag",nil,15000],
+                                                ["hlc_rifle_awcovert",nil,15000],
+                                                ["hlc_5rnd_300WM_FMJ_AWM",nil,15000],
+                                                ["lmg_03_f",nil,15000],
+                                                ["200Rnd_556x45_Box_F",nil,15000],
+                                                ["RH_m16a6_des",nil,15000],
+                                                ["RH_30Rnd_68x43_Match",nil,15000],
+                                                ["arifle_Mk20_F",nil,15000],
+                                                ["30Rnd_556x45_Stanag",nil,15000],
+                                                ["arifle_ARX_ghex_F",nil,15000],
+                                                ["30Rnd_65x39_caseless_green",nil,15000],
+                                                ["arifle_Katiba_F",nil,15000],
+                                                ["30Rnd_65x39_caseless_green",nil,15000],
+                                                ["RH_m3lr",nil,15000],
+                                                ["optic_DMS",nil,15000],
+                                                ["optic_aco",nil,15000],
+                                                ["optic_arco",nil,15000],
+                                                ["RH_barska_rds",nil,15000],
+                                                ["RH_eotech553mag_tan",nil,15000]
