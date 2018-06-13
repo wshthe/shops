@@ -1,0 +1,25 @@
+	//VeNDeTTa
+	case "VeNDeTTa_veh":
+    {
+        _return =
+		[
+		  ["urbanized_67mustang_black",65000],
+			["red_suburban_15_black",180000],
+			["evo_hurcan_black",650000],
+			["red_charger_15",180000],
+			["ivory_c",400000],
+			["urbanized_ctsv_black",450000],
+			["raptorlu_civ_noir",90000],
+			["wirk_h3_limo",150000],
+      ["ivory_isf",70000],
+			["ivory_lfa",150000],
+			["ivory_elise",220000],
+			["Urbanized_GranTurismo_black",300000],
+			["C_Offroad_02_unarmed_F",50000],
+			["ivory_gt500",90000],
+			["C_Van_01_transport_F",100000],
+			["cv_01",50000],
+			["cg_peugeot_508_civ_noir",45000],
+			["IVORY_R8",150000],
+			["ivory_supra_tuned",80000]
+        ];
