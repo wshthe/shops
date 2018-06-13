@@ -8,13 +8,11 @@ case "civ_VeNDeTTa":
                         {
                                 ["VeNDeTTa Weapons",
                                         [
-                                                ["a3l_cz550",nil,850000],
+                                                ["a3l_cz550",nil,1000000],
                                                 ["a3l_cz550scope",nil,10000],
                                                 ["A3L_CZ550Mag",nil,15000],
                                                 ["hlc_rifle_awcovert",nil,1200000],
                                                 ["hlc_5rnd_300WM_FMJ_AWM",nil,20000],
-                                                ["lmg_03_f",nil,450000],
-                                                ["200Rnd_556x45_Box_F",nil,20000],
                                                 ["RH_m16a6_des",nil,160000],
                                                 ["RH_30Rnd_68x43_Match",nil,2000],
                                                 ["arifle_Mk20_F",nil,90000],
