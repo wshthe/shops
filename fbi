@@ -1,0 +1,74 @@
+اسلحة تضاف الى شوب fbi
+
+["RH_m110",nil,5],
+["RH_20Rnd_762x51_Mk316LR",nil,5],
+["arifle_MX_SW_Black_F",nil,5],
+["bipod_01_F_snd",nil,5],
+["100Rnd_65x39_caseless_mag",nil,5],
+["arifle_SPAR_01_GL_blk_F",nil,5],
+["30Rnd_556x45_Stanag",nil,5],
+["muzzle_snds_M",nil,5],
+["hlc_rifle_Bushmaster300",nil,5],
+["29rnd_300BLK_STANAG",nil,5],
+["hlc_muzzle_300blk_KAC",nil,5],
+["hlc_rifle_akm ",nil,5],
+["hlc_45Rnd_762x39_m_rpk ",nil,5],
+["hlc_muzzle_762SUP_AK ",nil,5],
+["RH_30Rnd_68x43_FMJ",nil,5],
+["RH_6Rnd_454_Mag",nil,5],
+["optic_tws",nil,10],
+
+سيارات تضاف الى شوب الاف بي اي 
+
+["AlessioStingrayG",5],
+["AlessioStingrayC",5],
+["ivory_lfa",5],
+["Hosali_HyundaiSonata",5],
+["Urbanized_G65_white",5],
+["ivory_supra_tuned",5],
+
+حذف جميع لبس الاف بي اي واضافة هذي
+clothing
+["TRYK_U_B_3CD_BLK_BDUTshirt2",nil,10],
+["TRYK_U_B_BLK_TAN_1",nil,10],
+["U_B_GEN_Soldier_F",nil,10],
+["EF_HMFBI_2",nil,10],
+
+Hat
+
+["H_Watchcap_blk",nil,10],
+["H_HelmetSpecB_blk",nil,10],
+["AU_05_780000_v1",nil,10],
+["AU_02_780000_v1",nil,10],
+["H_HeadBandage_bloody_F",nil,10],
+["AU_06_780000_v1",nil,10],
+["H_Beret_02",nil,10],
+
+Glassess
+
+["yoda_hat",nil,10],
+["SFG_Tac_BeardO",nil,10],
+["SFG_Tac_BeardG",nil,10],
+["SFG_Tac_BeardD",nil,10],
+["SFG_Tac_BeardB",nil,10],
+["Mask_M40",nil,10],
+["G_Bandanna_aviator",nil,10],
+["G_Bandanna_beast",nil,10],
+
+Vest
+
+["SWATvest2",nil,10],
+["usms_vests_usms2_Fix",nil,10],
+["V_PlateCarrier2_blk",nil,10],
+["TRYK_V_ArmorVest_Delta2",nil,10],
+["V_PlateCarrier2_rgr_noflag_F",nil,10],
+["cest_belt",nil,10],
+["RYK_V_ArmorVest_coyo",nil,10],
+
+Backpack
+
+["cl3_police_tacticalbelt",nil,10],
+["I_UAV_01_backpack_F",nil,10],
+["back_base",nil,10],
+["cg_invisbp",nil,10],
+["A3L_ANPRC155_Invisible",nil,10],
